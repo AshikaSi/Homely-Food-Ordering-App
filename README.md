@@ -17,7 +17,7 @@ ashikasinghiitdhn@gmail.com
 
 ### Alternate Contact :
 
-21je0081@iitism.ac.in
+23je0167@iitism.ac.in
 
 ### Project Category :
 
