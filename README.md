@@ -5,7 +5,7 @@ This is the online food ordering web application made using React.JS and CSS for
 
 ### Name :
 
-Aman Bhardwaj
+Ashika Singh
 
 ### College :
 
@@ -13,7 +13,7 @@ IIT(ISM) Dhanbad, India
 
 ### Contact :
 
-amanbhardwaj12072003@gmail.com
+ashikasinghiitdhn@gmail.com
 
 ### Alternate Contact :
 
