@@ -34,18 +34,18 @@ const Footer = () => {
               <div className={classes.content_div}>
                 <p>
                   Solution for easy and flexible getting meals for the
-                  household.You can trust us anywhere through this platform
+                  household. You can trust us anywhere through this platform
                 </p>
                 <p>
                   &copy;All Rights Reserved - {" "}
                   &nbsp;
                   <a
-                    href="https://github.com/aaryakachole"
+                    href="https://github.com/AshikaSi"
                     target="_blank"
                     rel="noreferrer"
                     className={classes.eniola_codes}
                   >
-                    Aarya Kachole Project
+                    Ashika Singh Project
                   </a>
                 </p>
               </div>
@@ -66,7 +66,7 @@ const Footer = () => {
             <div className={classes.social}>
               <h3>Social</h3>
               <a
-                href="https://www.linkedin.com/in/aarya-kachole-3a221423b/"
+                href="https://www.linkedin.com/in/ashika-singh-756759285/"
                 target="_blank"
                 rel="noreferrer"
               >
